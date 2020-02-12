@@ -193,3 +193,7 @@ Set up the DB with `python /var/www/catalog/item-catalog-udacity/database_setup.
 
 14. Restart Apache
 Run `sudo service apache2 restart` and check http://3.122.237.112
+## Resources
+* https://flask.palletsprojects.com/en/1.1.x/deploying/mod_wsgi/
+* https://askubuntu.com/questions/27559/how-do-i-disable-remote-ssh-login-as-root-from-a-server
+* https://modwsgi.readthedocs.io/en/develop/
